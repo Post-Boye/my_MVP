@@ -59,7 +59,7 @@
             <div class="carousel-background"><img src="assets/img/slide/slide-3.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown mb-0">Parmar Darshan Kiritbhai</h2><p>CE084 <a href="https://github.com/darshankparmar" target="_blank">@darshankparmar</a></p>
+                <h2 class="animate__animated animate__fadeInDown mb-0">Justice Boye</h2><p>CE084 <a href="https://github.com/darshankparmar" target="_blank">@darshankparmar</a></p>
                 <a href="index.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">Get Started</a>
               </div>
             </div>
@@ -198,7 +198,7 @@
               <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Darshan Parmar</h4>
+                  <h4>Mr.Amuzu</h4>
                 </div>
                 <div class="social">
                   <a href="https://twitter.com/darshankparmar" target="_blank"><i class="icofont-twitter"></i></a>
@@ -214,7 +214,7 @@
               <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Harsh Patel</h4>
+                  <h4>Tyler</h4>
                 </div>
                 <div class="social">
                   <a href=""><i class="icofont-twitter" target="_blank"></i></a>
@@ -230,7 +230,7 @@
               <img src="assets/img/team/team-5.jpg" class="img-fluid" alt="" style="height: 198px;width: 198px;">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Bhavesh Parmar</h4>
+                  <h4> Parmar</h4>
                 </div>
                 <div class="social">
                   <a href=""><i class="icofont-twitter" target="_blank"></i></a>
